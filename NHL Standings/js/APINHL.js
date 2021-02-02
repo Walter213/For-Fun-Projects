@@ -11,14 +11,14 @@ request.onload = function () {
 	var DivisionRecords = Division.records
 	console.log(DivisionRecords)
 
-	// var DivisionTeamRecords = DivisionRecords.t
-	// console.log(DivisionTeamRecords)
-
 	$(document).ready(function() {
 		$('#centralDivision').DataTable( {
-			data: Division,
+			data: DivisionRecords,
 			columns: [
-				{ Division : "standingsType" }
+				{ data : "teamRecords.0.divisionRank" },
+				{ data : "teamRecords.0.team.name" }
+			],
+			columnDefs: [
 			],
 			bPaginate: false,
 			bInfo : false,
