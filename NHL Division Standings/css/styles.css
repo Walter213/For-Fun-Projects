@@ -18,6 +18,30 @@ a{
 	display: none;
 }
 
+h1{
+  text-align: center;
+  padding: 20px;
+  font-size: xx-large;
+  color: white;
+}
+
+h2{
+  text-align: center;
+  padding: 5px;
+  font-size: x-large;
+  color: white;
+}
+
+tr th{
+  color: whitesmoke;
+}
+
+body{
+  background: url(../img/nhlTeams.jpg) no-repeat;
+  background-attachment: fixed;
+	background-size: cover;
+}
+
 /* 
 ==============================================
 				Media Stuff
@@ -25,21 +49,9 @@ a{
 */
 
 @media(min-width: 480px){
-
+  
 }
 
 @media(min-width: 780px){
-
-}	
-
-@media(min-width: 1000px){
-
-}
-
-@media(min-width: 1250px){
-
-}
-
-@media(min-width: 1600px){
 
 }
