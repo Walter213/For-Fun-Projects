@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Premier League Table API GET</title>
+    <title>NHL Division and Conference Table API GET</title>
 
     <link rel="stylesheet" href="css/reboot.css" />
     <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,500,700" rel="stylesheet">
@@ -14,11 +14,14 @@
 </head>
 
 <body>
-    <h1>NHL Conference Standings</h1>
+    <header>
+        <h1>NHL Conference Standings</h1>
+        <p id="LiveTime"></p>
+    </header>
 
-    <body>
+    <main>
         <h2>Central Division</h2>
-        <table id="centralDivision" class="display centraldivision" width="80%">
+        <table id="centralDivision" class="display" width="80%">
             <thead> 
                 <tr>
                     <th>Team Name</th>
@@ -34,7 +37,63 @@
                 </tr>
             </thead>
         </table>
-    </body>
+        <h2>East Division</h2>
+        <table id="eastDivision" class="display" width="80%">
+            <thead> 
+                <tr>
+                    <th>Team Name</th>
+                    <th>Games Played</th>
+                    <th>Wins</th>
+                    <th>Losses</th>
+                    <th>Overtime Losses</th>
+                    <th>Points</th>
+                    <th>Goals Scored</th>
+                    <th>Goals Against</th>
+                    <th>Goal Difference</th>
+                    <th>Streak</th>
+                </tr>
+            </thead>
+        </table>
+        <h2>West Division</h2>
+        <table id="westDivision" class="display" width="80%">
+            <thead> 
+                <tr>
+                    <th>Team Name</th>
+                    <th>Games Played</th>
+                    <th>Wins</th>
+                    <th>Losses</th>
+                    <th>Overtime Losses</th>
+                    <th>Points</th>
+                    <th>Goals Scored</th>
+                    <th>Goals Against</th>
+                    <th>Goal Difference</th>
+                    <th>Streak</th>
+                </tr>
+            </thead>
+        </table>
+        <h2>Central Division</h2>
+        <table id="northDivision" class="display" width="80%">
+            <thead> 
+                <tr>
+                    <th>Team Name</th>
+                    <th>Games Played</th>
+                    <th>Wins</th>
+                    <th>Losses</th>
+                    <th>Overtime Losses</th>
+                    <th>Points</th>
+                    <th>Goals Scored</th>
+                    <th>Goals Against</th>
+                    <th>Goal Difference</th>
+                    <th>Streak</th>
+                </tr>
+            </thead>
+        </table>
+    </main>
+
+    <footer>
+        <p>@Copyright WalterTelDev 2021, All rights reserved</p>
+        <p>dword4 thanks for providing the API</p>
+    </footer>
 
     <script type="text/javascript" src="js/jquery-3.5.1.js"></script>
     <script type="text/javascript" src="js/jquery.dataTables.min.js"></script>

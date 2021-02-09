@@ -18,22 +18,32 @@ a{
 	display: none;
 }
 
-h1{
+header{
   text-align: center;
-  padding: 20px;
+  padding: 40px;
+}
+
+header h1{
   font-size: xx-large;
-  color: white;
+}
+
+header p{
+  margin-top: 20px;
+  font-size: x-large;
 }
 
 h2{
   text-align: center;
-  padding: 5px;
   font-size: x-large;
-  color: white;
+  margin: 20px;
+}
+
+table{
+  border: 1px solid black;
 }
 
 tr th{
-  color: whitesmoke;
+  background: white;
 }
 
 body{
@@ -42,16 +52,30 @@ body{
 	background-size: cover;
 }
 
+footer{
+  margin-top: 20px;
+  padding: 20px;
+  color: black;
+  text-align: center;
+  font-size: 16px;
+}
+
 /* 
 ==============================================
 				Media Stuff
 ==============================================
 */
 
-@media(min-width: 480px){
-  
+/* Background picture changes due to the size of this photo*/
+@media(max-width: 1490px){
+  body{
+    background: url(../img/nhl.jpg) no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
 }
 
-@media(min-width: 780px){
-
+/* Table starts to get crushed */
+@media(max-width: 850px){
+  
 }
