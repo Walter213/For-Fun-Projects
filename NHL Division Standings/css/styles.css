@@ -14,10 +14,6 @@ a{
 	text-decoration: none;
 }
 
-.hidden{
-	display: none;
-}
-
 header{
   text-align: center;
   padding: 40px;
@@ -39,6 +35,7 @@ h2{
 }
 
 table{
+  width: 80%;
   border: 1px solid black;
 }
 
@@ -75,7 +72,16 @@ footer{
   }
 }
 
+@media(min-width: 851px){
+  .hidden{
+    display: none;
+  }
+}
+
 /* Table starts to get crushed */
 @media(max-width: 850px){
-  
+
+  .tabledisplay{
+    display: none;
+  }
 }
