@@ -72,16 +72,40 @@ footer{
   }
 }
 
+/* Change background for mobile version */
+@media(max-width: 850px){
+  body{
+    background: url(../img/bg_bggenerator_com.png) no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+}
+
+/* hide small column then make then appear*/
 @media(min-width: 851px){
   .hidden{
     display: none;
   }
 }
 
-/* Table starts to get crushed */
+/* make small columns appear and make big columns disappear */
 @media(max-width: 850px){
-
   .tabledisplay{
     display: none;
+  }
+}
+
+/* Table starts to get crushed */
+@media(max-width: 580px){
+  table{
+    font-size: smaller;
+  }
+
+  table.dataTable tbody th, table.dataTable tbody td {
+    padding: 4px 5px !important;
+  }
+
+  table.dataTable thead tr th{
+    padding: 4px 5px !important;
   }
 }
