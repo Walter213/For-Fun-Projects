@@ -2,6 +2,8 @@
 
 var request = new XMLHttpRequest()
 
+// This is old link, it seems that it was removed onto a new link, need to do some research to find out
+//    the new link
 request.open('GET', 'https://statsapi.web.nhl.com/api/v1/standings', true)
 
 request.onload = function () {
