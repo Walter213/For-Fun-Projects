@@ -3,7 +3,7 @@
 var request = new XMLHttpRequest()
 
 // This is old link, it seems that it was removed onto a new link, need to do some research to find out
-//    the new link
+//    the new link: http://api-web.nhle.com maybe?? https://gitlab.com/dword4/nhlapi/-/blob/master/swagger/openapi.yaml?ref_type=heads to look at 
 request.open('GET', 'https://statsapi.web.nhl.com/api/v1/standings', true)
 
 request.onload = function () {
