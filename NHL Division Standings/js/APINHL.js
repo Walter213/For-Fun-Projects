@@ -1,14 +1,37 @@
 // Thanks to https://gitlab.com/dword4/nhlapi/-/blob/master/stats-api.md for providings these API for public use
 
 var request = new XMLHttpRequest()
+request.getAllResponseHeaders();
+request.withCredentials = true;
 
-// This is old link, it seems that it was removed onto a new link, need to do some research to find out
-//    the new link: http://api-web.nhle.com maybe?? https://gitlab.com/dword4/nhlapi/-/blob/master/swagger/openapi.yaml?ref_type=heads to look at 
-request.open('GET', 'https://statsapi.web.nhl.com/api/v1/standings', true)
+// https://gitlab.com/dword4/nhlapi/-/blob/master/new-api.md for more API and Info
+
+var date = new Date();
+var Year = date.getFullYear();
+var Month = date.getMonth() + 1;
+var Day = date.getDate();
+
+if (Month < 10)
+{
+	Month = '0' + Month
+}
+
+if (Day < 10)
+{
+	Day = '0' + Day
+}
+
+var liveTime = Year + '-' + Month + '-' + Day 
+
+// Access-Control-Allow-Origin: 
+
+var URL = 'https://api-web.nhle.com/v1/standings/' + liveTime
+
+request.open('GET', URL, true)
 
 request.onload = function () {
 	var Division = JSON.parse(this.response).records
-	// console.log(Division)
+	console.log(Division)
 
 	// Central Division
 	var centralDivision = Division[Division.length - 2].teamRecords
@@ -26,18 +49,18 @@ request.onload = function () {
 	var northDivision = Division[Division.length - 4].teamRecords
 	// console.log(eastDivision)
 
-	// Live Time
-	var liveTime = northDivision[northDivision.length - 1].lastUpdated
-	console.log(liveTime)
+	// // Live Time
+	// var liveTime = northDivision[northDivision.length - 1].lastUpdated
+	// console.log(liveTime)
 
-	// Formatting the Live Time
-	var date = new Date(liveTime);
-	console.log(date)
+	// // Formatting the Live Time
+	// var date = new Date(liveTime);
+	// console.log(date)
 
 	$(document).ready(function() {
 		// Live Timer
 		// Shows what time the tables have been updated
-		$("#LiveTime").append("<p>Last Updated: " + date + "</p>");
+		$("#LiveTime").append("<p>Last Updated: " + liveTime + "</p>");
 
 		// Central Division
 		$('#centralDivision').DataTable( {
