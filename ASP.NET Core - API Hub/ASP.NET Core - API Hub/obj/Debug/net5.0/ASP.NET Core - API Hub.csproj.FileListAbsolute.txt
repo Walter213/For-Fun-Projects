@@ -1,0 +1,48 @@
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\bin\Debug\net5.0\appsettings.json
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\bin\Debug\net5.0\ASP.NET Core - API Hub.exe
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\bin\Debug\net5.0\ASP.NET Core - API Hub.deps.json
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\bin\Debug\net5.0\ASP.NET Core - API Hub.runtimeconfig.json
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\bin\Debug\net5.0\ASP.NET Core - API Hub.runtimeconfig.dev.json
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\bin\Debug\net5.0\ASP.NET Core - API Hub.dll
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\bin\Debug\net5.0\ref\ASP.NET Core - API Hub.dll
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\bin\Debug\net5.0\ASP.NET Core - API Hub.pdb
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\bin\Debug\net5.0\ASP.NET Core - API Hub.Views.dll
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\bin\Debug\net5.0\ASP.NET Core - API Hub.Views.pdb
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\ASP.NET Core - API Hub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\ASP.NET Core - API Hub.AssemblyInfoInputs.cache
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\ASP.NET Core - API Hub.AssemblyInfo.cs
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\ASP.NET Core - API Hub.csproj.CoreCompileInputs.cache
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\ASP.NET Core - API Hub.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\ASP.NET Core - API Hub.RazorAssemblyInfo.cache
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\ASP.NET Core - API Hub.RazorAssemblyInfo.cs
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\staticwebassets\ASP.NET Core - API Hub.StaticWebAssets.Manifest.cache
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\staticwebassets\ASP.NET Core - API Hub.StaticWebAssets.xml
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\scopedcss\bundle\ASP.NET Core - API Hub.styles.css
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\ASP.NET Core - API Hub.TagHelpers.input.cache
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\ASP.NET Core - API Hub.TagHelpers.output.cache
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\ASP.NET Core - API Hub.RazorCoreGenerate.cache
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\ASP.NET Core - API Hub.RazorTargetAssemblyInfo.cache
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\ASP.NET Core - API Hub.RazorTargetAssemblyInfo.cs
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\ASP.NET Core - API Hub.Views.pdb
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\ASP.NET Core - API Hub.dll
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\ref\ASP.NET Core - API Hub.dll
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\ASP.NET Core - API Hub.pdb
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\ASP.NET Core - API Hub.genruntimeconfig.cache
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\ASP.NET Core - API Hub.csproj.CopyComplete
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\ASP.NET Core - API Hub.csproj.AssemblyReference.cache
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\bin\Debug\net5.0\RestSharp.dll
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\Razor\Views\MovieAPI\TopRatedMovies.cshtml.g.cs
+C:\Users\Walter\Documents\GitHub\For-Fun-Projects\ASP.NET Core - API Hub\ASP.NET Core - API Hub\obj\Debug\net5.0\Razor\Views\USAPopAPI\USAPopulation.cshtml.g.cs
