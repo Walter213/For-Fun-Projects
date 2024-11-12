@@ -2,7 +2,7 @@
 
 let USAYear = [];
 let USAPopulation = [];
-
+const USAPopulationFormat = [];
 
 fetch(URL)
     .then(res => {
@@ -18,9 +18,15 @@ fetch(URL)
             USAPopulation[i] = USA.Population
             i++
         });
+
+        for (let i = 0; i < USAPopulation.length; i++) {
+            USAPopulationFormat.push(USAPopulation[i].toString().replace(/\B(?=(\d{3})+(?!\d))/g, ' '));
+        }
     })
 
 console.log(USAYear)
+console.log(USAPopulation)
+console.log(USAPopulationFormat)
 
 const colorPrimary = getComputedStyle(document.documentElement)
     .getPropertyValue("--color-primary")
@@ -77,6 +83,7 @@ let barOptions = {
         {
             name: "Population",
             data: USAPopulation
+            // Display a proper number format : USAPopulationFormat
         }
     ],
 
@@ -130,7 +137,7 @@ let barOptions = {
             show: true,
             floating: true,
             style: {
-                colors: colorLabel,
+                colors: "#ffffff",
                 fontFamily: fontFamily
             }
         },
